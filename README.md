@@ -1,2 +1,3 @@
 # hell-no
-A new repository
+This A new repository.
+And today is the day.
